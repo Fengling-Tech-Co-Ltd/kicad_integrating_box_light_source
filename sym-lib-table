@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LCSC")(type "KiCad")(uri "${KIPRJMOD}/LCSC.kicad_sym")(options "")(descr "LCSC / EasyEDA symbols"))
+)

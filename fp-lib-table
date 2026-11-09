@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "integrating_box_light_source")(type "KiCad")(uri "${KIPRJMOD}/integrating_box_light_source.pretty")(options "")(descr "Project footprints (3535 LED etc.)"))
+)

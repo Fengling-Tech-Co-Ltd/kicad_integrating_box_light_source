@@ -1,0 +1,17 @@
+# KiCad 本地文件与备份
+.history/
+*.bak
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+~*.lck
+fp-info-cache
+
+# 由原理图导出的中间文件（BOM_立创编号.csv 是要提交的成品，不忽略）
+bom_source.xml
+*.net
+*.rpt
+
+# DSH/KiCad ���߲�������Ⱦ�м��ļ�
+.dsh-kicad/
